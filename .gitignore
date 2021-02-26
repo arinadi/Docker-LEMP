@@ -1,0 +1,6 @@
+/webroot/project
+/config/nginx/site.conf
+/data/certbot
+/data/mysql
+/init-letsencrypt.sh
+/data/nginx/app.conf
