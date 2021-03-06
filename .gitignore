@@ -1,4 +1,3 @@
 /webroot/project
 /data/certbot
 /data/mysql
-/init-letsencrypt.sh
